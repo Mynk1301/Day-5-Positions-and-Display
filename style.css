@@ -22,7 +22,7 @@ img{
     border-radius:14px;
 }
 
-button{
+.btn-1{
     background-color:black;
     color:white;
     border:none;
@@ -100,7 +100,7 @@ h1{
     margin:40px;
 
 }
-.bg-btn{
+.bg-b{
     border:none;
     padding:15px 40px;
     background-color: black;
